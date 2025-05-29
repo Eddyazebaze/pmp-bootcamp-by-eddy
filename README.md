@@ -50,4 +50,4 @@ Conçu et animé par **Eddy Azebaze**, formateur officiel PMP (PMI ATP), expert 
 
 **Ce dépôt sera enrichi en continu. N’hésitez pas à le suivre ou le partager.**
 
-> “Deliver what matters. Measure what counts.” – Project Leadership by Design.
+> “Deliver what matters. Measure what counts.” - Project Leadership by Design.
