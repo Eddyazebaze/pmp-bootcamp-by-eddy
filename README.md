@@ -1,5 +1,8 @@
 # PMP Bootcamp by Eddy
-![Bootcamp PMP par Eddy Azebaze](./Bootcamp-PMP-Eddy-AZEBAZE.png)
+<p align="center">
+  <img src="./Bootcamp-PMP-Eddy-AZEBAZE.png" alt="Bootcamp PMP par Eddy Azebaze" width="300"/>
+</p>
+
 Bootcamp intensif pour décrocher la certification **PMP®** avec méthode, impact et stratégie.  
 Conçu et animé par **Eddy Azebaze**, formateur officiel PMP (PMI ATP), expert en gestion de projet stratégique, GRC, cybersécurité et IA responsable.
 
