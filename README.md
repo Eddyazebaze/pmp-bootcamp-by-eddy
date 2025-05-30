@@ -1,4 +1,6 @@
 # PMP Bootcamp by Eddy
+[![GitHub Release](https://img.shields.io/github/v/release/Eddyazebaze/pmp-bootcamp-by-eddy?style=flat-square)](https://github.com/Eddyazebaze/pmp-bootcamp-by-eddy/releases/latest)
+
 <p align="center">
   <img src="./Bootcamp-PMP-Eddy-AZEBAZE.png" alt="Bootcamp PMP par Eddy Azebaze" width="300"/>
 </p>
